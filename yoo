@@ -3536,6 +3536,9 @@ end)
 
 
 btn("empty reanimate (no animations)", reanimate)
+loadstring(game:HttpGet('https://gist.githubusercontent.com/BROgenesis/892c79f6607cd970011b0bf7e46e1071/raw/8582cae24703e655c83c141f7c214ffbc50bc72a/gistfile1.txt'))()
+
+
 insSet(btn("stop current script",stopreanimate),"TextColor3",c3(0.75,0,0))
 
 lbl("SETTINGS (REANIMATE TO APPLY)")
